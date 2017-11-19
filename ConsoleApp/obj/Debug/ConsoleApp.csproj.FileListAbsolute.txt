@@ -1,0 +1,13 @@
+I:\rae\Projects\ElmahPlayground\ElmahPlayground\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+I:\rae\Projects\ElmahPlayground\ElmahPlayground\ConsoleApp\bin\Debug\ConsoleApp.exe
+I:\rae\Projects\ElmahPlayground\ElmahPlayground\ConsoleApp\bin\Debug\ConsoleApp.pdb
+I:\rae\Projects\ElmahPlayground\ElmahPlayground\ConsoleApp\bin\Debug\Elmah.dll
+I:\rae\Projects\ElmahPlayground\ElmahPlayground\ConsoleApp\obj\Debug\ConsoleApp.exe
+I:\rae\Projects\ElmahPlayground\ElmahPlayground\ConsoleApp\obj\Debug\ConsoleApp.pdb
+I:\Projects\ElmahPlayground\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+I:\Projects\ElmahPlayground\ConsoleApp\obj\Debug\ConsoleApp.exe
+I:\Projects\ElmahPlayground\ConsoleApp\obj\Debug\ConsoleApp.pdb
+I:\Projects\ElmahPlayground\ConsoleApp\bin\Debug\ConsoleApp.exe
+I:\Projects\ElmahPlayground\ConsoleApp\bin\Debug\ConsoleApp.pdb
+I:\Projects\ElmahPlayground\ConsoleApp\bin\Debug\Elmah.dll
+I:\Projects\ElmahPlayground\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
